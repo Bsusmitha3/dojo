@@ -1,2 +1,2 @@
 # dojo
-dojo
+dojo app
